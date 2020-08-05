@@ -2,7 +2,7 @@
 
 To access the Tools, click Tools > Utility for the tools, yep.
 
-![UtoolsMain_014r](images\UtoolsMain_014r.jpg)
+![UtoolsMain_014r](.\images\UtoolsMain_014r.jpg)
 
 ## Required Unity Asset Store Assets
 
