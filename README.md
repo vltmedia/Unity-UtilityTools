@@ -30,3 +30,7 @@ There are a few Assets from the  Unity Asset Store that you need to download/pur
   - https://assetstore.unity.com/packages/tools/terrain/cts-complete-terrain-shader-91938
   - UtilitySetMapMagicTerrainSettings.cs
 
+## Included Tools
+
+Coming Soon...
+
